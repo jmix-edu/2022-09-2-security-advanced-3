@@ -53,11 +53,13 @@
                             stylename="jmix-login-submit-button"/>
                     <button id="loginGoogleButton"
                             align="MIDDLE_CENTER"
-                            action="loginGoogle"
+                            icon="GOOGLE"
+                            caption="Login using Google"
                             stylename="jmix-login-submit-button google-button"/>
                     <button id="loginGitHubButton"
+                            icon="GITHUB"
+                            caption="Login using GitHub"
                             align="MIDDLE_CENTER"
-                            action="loginGitHub"
                             stylename="jmix-login-submit-button github-button"/>
                 </vbox>
             </vbox>
